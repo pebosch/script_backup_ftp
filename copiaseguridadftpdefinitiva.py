@@ -1,3 +1,6 @@
+# Script propiedad de Pedro Jesús del Moral
+
+
 import keyring
 
 
